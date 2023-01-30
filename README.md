@@ -1,4 +1,4 @@
-# ML_classificação-cao-ou-porco
+# Classificação Cachorro ou porco
 
 # Bibliotecas
 
